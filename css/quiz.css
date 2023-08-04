@@ -1,6 +1,6 @@
 /* styles of the body section */
 body{
-  background-image: url("../Images/QuizBackground.jpg");
+  background-image: url("../images/QuizBackground.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-color: rgba(255,255,255,0.2); 
